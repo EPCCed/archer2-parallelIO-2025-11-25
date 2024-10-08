@@ -8,7 +8,7 @@ width="133" height="100">
 
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
-<h3>David Henty EPCC: Wednesday 1st November 2023, 09:30 - 16:30 UK
+<h3>David Henty EPCC: Tuesday 15th October 2024, 09:30 - 16:30 UK
 time (GMT), online</h3>
 
 One of the greatest challenges to running parallel applications on
@@ -62,19 +62,19 @@ this run, but is made available here for reference.</blockquote></p>
 &copy; EPCC, The University of Edinburgh, and is only made available
 for private study. </blockquote></p>
 
-<h4>Wednesday 1st November 2023</h4>
+<h4>Tuesday 15th October 2024</h4>
 
- * 09:30 - 10:15 : <a href="https://github.com/EPCCed/archer2-parallelIO-2023-11-01/raw/main/slides/Parallel-IO-1.pdf">Challenges of Parallel IO</a>
- * 10:15 - 10:45 : <a href="https://github.com/EPCCed/archer2-parallelIO-2023-11-01/raw/main/slides/Parallel-IO-2.pdf">Lustre file system on ARCHER2</a>
+ * 09:30 - 10:15 : <a href="https://github.com/EPCCed/archer2-parallelIO-2024-10-15/raw/main/slides/Parallel-IO-1.pdf">Challenges of Parallel IO</a>
+ * 10:15 - 10:45 : <a href="https://github.com/EPCCed/archer2-parallelIO-2024-10-15/raw/main/slides/Parallel-IO-2.pdf">Lustre file system on ARCHER2</a>
  * 10:45 - 11:00 : Practical: Basic IO performance
  * 11:00 - 11:30 : Break
  * 11:30 - 12:00 : Practical: Basic IO performance (cont)
- * 12:00 - 12:45 : <a href="https://github.com/EPCCed/archer2-parallelIO-2023-11-01/raw/main/slides/Parallel-IO-3.pdf">Overview of MPI-IO</a>
+ * 12:00 - 12:45 : <a href="https://github.com/EPCCed/archer2-parallelIO-2024-10-15/raw/main/slides/Parallel-IO-3.pdf">Overview of MPI-IO</a>
  * 12:45 - 13:00 : Practical: MPI-IO performance
  * 13:00 - 14:00 : Lunch
- * 14:00 - 14:30 : <a href="https://github.com/EPCCed/archer2-parallelIO-2023-11-01/raw/main/slides/Parallel-IO-4.pdf">Configuring the Lustre filesystem</a>
+ * 14:00 - 14:30 : <a href="https://github.com/EPCCed/archer2-parallelIO-2024-10-15/raw/main/slides/Parallel-IO-4.pdf">Configuring the Lustre filesystem</a>
  * 14:30 - 15:00 : Practical: MPI-IO performance (cont)
- * 15:00 - 15:30 : <a href="https://github.com/EPCCed/archer2-parallelIO-2023-11-01/raw/main/slides/Parallel-IO-5.pdf">Higher-level parallel IO libraries</a>
+ * 15:00 - 15:30 : <a href="https://github.com/EPCCed/archer2-parallelIO-2024-10-15/raw/main/slides/Parallel-IO-5.pdf">Higher-level parallel IO libraries</a>
  * 15:30 - 16:00 : Break
  * 16:00 - 16:30 : Q&A / Finish exercises
  * 16:30         : CLOSE
@@ -84,13 +84,13 @@ results from benchio. The first report was written before we knew
 about MPI-IO locking mode "2"; the second was written afterwards.
 
   * <a
-    href="https://github.com/EPCCed/archer2-parallelIO-2023-11-01/raw/main/reports/parallelIO-archer2-cug2022-submitted.pdf">Performance
+    href="https://github.com/EPCCed/archer2-parallelIO-2024-10-15/raw/main/reports/parallelIO-archer2-cug2022-submitted.pdf">Performance
     of Parallel IO on the 5860-node HPE Cray EX System ARCHER2</a>,
     D. Henty, presented at CUG2022, The Cray User Group, Monterey, CA,
     2-5 May 2022.
 
   * <a
-    href="https://github.com/EPCCed/archer2-parallelIO-2023-11-01/raw/main/reports/parallel_IO_eurocc-2.pdf">Parallel
+    href="https://github.com/EPCCed/archer2-parallelIO-2024-10-15/raw/main/reports/parallel_IO_eurocc-2.pdf">Parallel
     IO on ARCHER2</a>, EuroCC-UK Technical Report, S. Farr and
     D. Henty.
 
@@ -105,7 +105,7 @@ repository](https://www.archer2.ac.uk/training/courses/220713-parallel-io-vt/).
 &copy; EPCC, The University of Edinburgh, and is only made available
 for private study. </blockquote></p>
 
-Here is the <a href="https://github.com/EPCCed/archer2-parallelIO-2023-11-01/raw/main/exercises/benchio-archer2.pdf">parallel IO exercise sheet.</a>. As explained in the sheet, source code and instructions for the IO benchmark can be found at <a href="https://github.com/davidhenty/benchio">https://github.com/davidhenty/benchio/.</a>
+Here is the <a href="https://github.com/EPCCed/archer2-parallelIO-2024-10-15/raw/main/exercises/benchio-archer2.pdf">parallel IO exercise sheet.</a>. As explained in the sheet, source code and instructions for the IO benchmark can be found at <a href="https://github.com/davidhenty/benchio">https://github.com/davidhenty/benchio/.</a>
 
 ---
 
