@@ -64,7 +64,8 @@ for private study. </blockquote></p>
 
 <h4>Tuesday 15th October 2024</h4>
 
- * 09:30 - 10:15 : <a href="https://github.com/EPCCed/archer2-parallelIO-2024-10-15/raw/main/slides/Parallel-IO-1.pdf">Challenges of Parallel IO</a>
+ * 09:30 - 09:40 : <a href="https://github.com/EPCCed/archer2-parallelIO-2024-10-15/raw/main/slides/L00-ARCHER2-Intro.pdf">ARCHER2 Training</a>
+ * 09:40 - 10:15 : <a href="https://github.com/EPCCed/archer2-parallelIO-2024-10-15/raw/main/slides/Parallel-IO-1.pdf">Challenges of Parallel IO</a>
  * 10:15 - 10:45 : <a href="https://github.com/EPCCed/archer2-parallelIO-2024-10-15/raw/main/slides/Parallel-IO-2.pdf">Lustre file system on ARCHER2</a>
  * 10:45 - 11:00 : Practical: Basic IO performance
  * 11:00 - 11:30 : Break
