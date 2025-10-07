@@ -76,9 +76,8 @@ for private study. </blockquote></p>
  * 14:00 - 14:30 : <a href="https://github.com/EPCCed/archer2-parallelIO-2025-11-25/raw/main/slides/Parallel-IO-4.pdf">Configuring the Lustre filesystem</a>
  * 14:30 - 15:00 : Practical: MPI-IO performance (cont)
  * 15:00 - 15:30 : <a href="https://github.com/EPCCed/archer2-parallelIO-2025-11-25/raw/main/slides/Parallel-IO-5.pdf">Higher-level parallel IO libraries</a>
- * 15:30 - 16:00 : Break
- * 16:00 - 16:30 : Q&A / Finish exercises
- * 16:30         : CLOSE
+ * 15:30 - 16:00 : Q&A / Finish exercises
+ * 16:00         : CLOSE
 
 Here are a couple of reports on parallel IO on ARCHER2 including
 results from benchio. The first report was written before the
